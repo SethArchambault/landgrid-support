@@ -34,31 +34,31 @@ Example: 159 MB
 
 **Get iPhone/iOS Version + Model Number**
 
-1. Click on the **Settings Icon**
+1) Click on the **Settings Icon**
 
 
 ![ios_settings.png]({{site.baseurl}}/img/ios_settings.png)
 
 
-2. Click **General.**
+2) Click **General.**
 
 
 ![ios_model_1.png]({{site.baseurl}}/img/ios_model_1.png)
 
 
-3. Click **About**
+3) Click **About**
 
 
 ![ios_model_2.png]({{site.baseurl}}/img/ios_model_2.png)
 
 
-4. Write down the **Version Number**
+4) Write down the **Version Number**
 
 
 ![ios_model_3.png]({{site.baseurl}}/img/ios_model_3.png)
 
 
-5. Write down the **Model Number**
+5) Write down the **Model Number**
 
 
 ![ios_model_4.png]({{site.baseurl}}/img/ios_model_4.png)
@@ -69,37 +69,37 @@ Example: 159 MB
 **Get Loveland Next App Version**
 
 
-1. Click on the **Settings Icon**
+1) Click on the **Settings Icon**
 
 
 ![ios_app_1.png]({{site.baseurl}}/img/ios_app_1.png)
 
 
-2. Click **Storage & iCloud Usage**
+2) Click **Storage & iCloud Usage**
 
 
 ![ios_app_2.png]({{site.baseurl}}/img/ios_app_2.png)
 
 
-3. Click **Manage Storage**
+3) Click **Manage Storage**
 
 
 ![ios_app_3.png]({{site.baseurl}}/img/ios_app_3.png)
 
 
-4. Click **Loveland Next** (You may have to scroll down)
+4) Click **Loveland Next** (You may have to scroll down)
 
 
 ![ios_app_4.png]({{site.baseurl}}/img/ios_app_4.png)
 
 
-5. Write down the **number underneath 'Loveland Next'** This is the Loveland App Version Number
+5) Write down the **number underneath 'Loveland Next'** This is the Loveland App Version Number
 
 
 ![ios_app_5.png]({{site.baseurl}}/img/ios_app_5.png)
 
 
-6. Write down the **App Size.**
+6) Write down the **App Size.**
 
 
 ![ios_app_6.png]({{site.baseurl}}/img/ios_app_6.png)
